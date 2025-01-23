@@ -13,11 +13,11 @@
 
 - 🔭 I’m currently working on **Exploring exciting new ideas in frontend development.**
 
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at [Projects under construction. Keep an eye out!](Projects under construction. Keep an eye out!)
 
-- 💬 Ask me about **HTML,CSS**
+- 💬 Ask me about **HTML,CSS and Javascript**
 
 - 📫 How to reach me **wasethsapriso@gmail.com**
 
