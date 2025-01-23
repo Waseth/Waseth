@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [Projects under construction. Keep an eye out!](Projects under construction. Keep an eye out!)
 
-- 💬 Ask me about **HTML,CSS and Javascript**
+- 💬 Ask me about **Aggy abuga**
 
 - 📫 How to reach me **wasethsapriso@gmail.com**
 
