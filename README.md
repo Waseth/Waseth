@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Waseth Emmanuel</h1>
 ## My Codewars Badge
 
-![Codewars Badge](https://www.codewars.com/users/Waseth%20Emmanuel%20/badges/large)
+<p align="center">
+  <img src="https://www.codewars.com/users/Waseth%20Emmanuel%20/badges/large" alt="Codewars Badge">
+</p>
 
 <h3 align="center">Elevating the Web, One Pixel at a Time!</h3>
 <img 
