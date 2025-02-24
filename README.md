@@ -29,7 +29,7 @@
 
 ### 🌱 I’m currently learning **JavaScript**
 
-### 👨‍💻 All of my projects are available at **Projects under construction. Keep an eye out!**
+### 👨‍💻  **Projects under construction. Keep an eye out!**
 
 ### 💬 Ask me about **HTML, CSS, and JavaScript**
 
