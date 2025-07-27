@@ -25,13 +25,13 @@
   </a>
 </p>
 
-### 🔭 I’m currently working on **Exploring exciting new ideas in frontend development.**
+### 🔭 I’m currently working on **RESPONSIVE WEB DESIGN**
 
-### 🌱 I’m currently learning **JavaScript**
+### 🌱 I’m currently learning **CSS**
 
 ### 👨‍💻  **Projects under construction. Keep an eye out!**
 
-### 💬 Ask me about **HTML, CSS, and JavaScript**
+### 💬 Ask me about **HTML AND CSS**
 
 ### 📫 How to reach me **wasethsapriso@gmail.com**
 
