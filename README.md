@@ -27,7 +27,7 @@
 
 ### 🔭 I’m currently working on **RESPONSIVE WEB DESIGN**
 
-### 🌱 I’m currently learning **CSS**
+### 🌱 I’m currently learning **BOOTSTRAP**
 
 ### 👨‍💻  **Projects under construction. Keep an eye out!**
 
