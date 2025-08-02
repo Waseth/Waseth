@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Emmanuel Waseth | Aspiring Software Developer<br>I'm currently learning HTML, CSS, and Bootstrap by building small, responsive web projects. <br>My focus is on mastering the fundamentals of web design, including layout and responsiveness, before moving on to JavaScript and more advanced tools.
+Hi! I'm Emmanuel Waseth | Software Developer<br>I'm currently learning HTML, CSS, and Bootstrap by building small, responsive web projects. <br>My focus is on mastering the fundamentals of web design, including layout and responsiveness, before moving on to JavaScript and more advanced tools.
 
 
 ## 🌐 Socials:
