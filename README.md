@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi! I'm Emmanuel Waseth | Software Developer<br>I'm currently learning Javascript<br>
-👉[Porttfolio Link](https://waseth-portfolio.vercel.app/)
+👉[Porttfolio](https://waseth-portfolio.vercel.app/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/waseth.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/waseth-emmanuel) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/29335853/sapriso-waseth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wasethsapriso@gmail.com) 
