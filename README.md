@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Emmanuel Waseth | Software Developer<br>I'm currently learning Javascript<br>
+Hi! I'm Emmanuel Waseth | Software Developer<br>I'm currently learning Tailwind<br>
 👉[Porttfolio](https://waseth-portfolio.vercel.app/)
 
 ## 🌐 Socials:
