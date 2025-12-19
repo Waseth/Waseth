@@ -1,25 +1,45 @@
-# 💫 About Me:
-Hi! I'm Emmanuel Waseth | Software Developer<br>I'm currently learning Javascript<br>
-👉[Porttfolio](https://waseth-portfolio.vercel.app/)
+# 👋ABOUT ME
+Hi, I’m Emmanuel Waseth — a passionate Software Developer focused on building clean, user-friendly web applications.
+I enjoy working with JavaScript and modern frontend tools, and I’m continuously improving my skills through hands-on projects and real-world problem solving.<br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/waseth.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/waseth-emmanuel) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/29335853/sapriso-waseth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wasethsapriso@gmail.com) 
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Waseth&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Waseth&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Waseth&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+👉[HERE'S MY PORTFOLIO](https://waseth-portfolio.vercel.app/)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Waseth&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+## 🌐CONNECT WITH ME
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/waseth.dev) 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Waseth&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/waseth-emmanuel) 
 
----
-[![](https://visitcount.itsvg.in/api?id=Waseth&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/29335853/sapriso-waseth) 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wasethsapriso@gmail.com) 
+
+# 💻TECH STACK
+## FRONTEND
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## BACKEND
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+## TOOLS
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
+
+## What I’m Currently Working On
+- Strengthening my JavaScript fundamentals through project-based learning  
+- Enhancing the UI/UX of Expensify(An expense tracker app I am working on) 
+- Preparing for a smooth transition into React by building solid vanilla JavaScript projects
+
+
+
