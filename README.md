@@ -36,10 +36,13 @@ I enjoy working with JavaScript and modern frontend tools, and I’m continuousl
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
 
-## What I’m Currently Working On
-- Strengthening my JavaScript fundamentals through project-based learning  
-- Enhancing the UI/UX of Expensify(An expense tracker app I am working on) 
-- Preparing for a smooth transition into React by building solid vanilla JavaScript projects
+## Current Focus
+
+I am currently building real-world projects that solve everyday problems, with a strong emphasis on understanding core JavaScript concepts through hands-on development.
+
+My main project at the moment is Expensify, a personal finance tracker designed to help students manage income, expenses, and budgeting more effectively.
+
+In parallel, I am preparing for a transition into React by first mastering underlying concepts in plain JavaScript, ensuring a solid foundation before moving into component-based frameworks.
 
 
 
