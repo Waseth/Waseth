@@ -1,6 +1,4 @@
-# 👋ABOUT ME
-Hi, I’m Emmanuel Waseth — a passionate Software Developer focused on building clean, user-friendly web applications.
-I enjoy working with JavaScript and modern frontend tools, and I’m continuously improving my skills through hands-on projects and real-world problem solving.<br>
+Hey, I’m Emmanuel Waseth. I’m all about building web apps that people enjoy using.<br> I’m into JavaScript and modern frontend tools, and I get a kick out of learning new things by actually building stuff.
 
 
 👉[HERE'S MY PORTFOLIO](https://waseth-portfolio.vercel.app/)
@@ -36,13 +34,7 @@ I enjoy working with JavaScript and modern frontend tools, and I’m continuousl
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
 
-## Current Focus
 
-I am currently building real-world projects that solve everyday problems, with a strong emphasis on understanding core JavaScript concepts through hands-on development.
-
-My main project at the moment is Expensify, a personal finance tracker designed to help students manage income, expenses, and budgeting more effectively.
-
-In parallel, I am preparing for a transition into React by first mastering underlying concepts in plain JavaScript, ensuring a solid foundation before moving into component-based frameworks.
 
 
 
