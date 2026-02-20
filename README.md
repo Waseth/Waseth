@@ -1,7 +1,7 @@
 Hey, I’m Emmanuel Waseth. I’m all about building web apps that people enjoy using.<br> I’m into JavaScript and modern frontend tools, and I get a kick out of learning new things by actually building stuff.
 
 
-👉[HERE'S MY PORTFOLIO]([https://waseth-portfolio.vercel.app/](https://portfolio-waseths-projects.vercel.app/))
+👉[HERE'S MY PORTFOLIO](https://portfolio-waseths-projects.vercel.app/)
 
 ## 🌐CONNECT WITH ME
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/waseth.dev) 
