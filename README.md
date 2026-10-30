@@ -13,13 +13,6 @@
 </p>
 
 
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Waseth&theme=github-dark-blue&hide_border=true&border_radius=12" alt="GitHub Streak"/>
-  </a>
-</p>
-
 <div align="center">
 
 # CONNECT WITH ME
